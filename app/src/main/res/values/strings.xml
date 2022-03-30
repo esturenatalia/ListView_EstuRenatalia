@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ListView_EstuRenatalia</string>
+    <string-array name="countries_arry">
+        <item>Laptop</item>
+        <item>Komputer</item>
+        <item>Televisi</item>
+        <item>Meja</item>
+        <item>Baju</item>
+        <item>Celana</item>
+        <item>Tas</item>
+        <item>Ransel</item>
+        <item>Buku</item>
+        <item>TV Samsung</item>
+        <item>Kulkas</item>
+        <item>AC</item>
+        <item>pensil</item>
+        <item>Pulpen</item>
+        <item>TV Samsung</item>
+        <item>Kulkas</item>
+        <item>AC</item>
+        <item>pensil</item>
+        <item>Pulpen</item>
+        <item>TV Samsung</item>
+        <item>Kulkas</item>
+        <item>AC</item>
+        <item>pensil</item>
+        <item>Pulpen</item>
+        <item>dan lain-lain</item>
+    </string-array>
+</resources>
